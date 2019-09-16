@@ -1,3 +1,3 @@
 # python-aws
 
-Automate AWS with Python
+Automate AWS with Python boto3
